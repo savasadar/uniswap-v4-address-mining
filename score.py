@@ -32,6 +32,6 @@ def calculate_score(address):
     return score
 
 # Test adresi
-address = "0x0000245b0C36401c594F878556Bf29c71963e91a"
+address = "0x000000000044449b4B19c2B8477Dbc403Cc4DA4e"
 score = calculate_score(address)
 print(f"Adres: {address}, Puan: {score}")
