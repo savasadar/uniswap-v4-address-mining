@@ -9,5 +9,6 @@ Check best mined address from => https://v4-address.uniswap.org/
 ## How to run the script and mine address?
 - Make sure python installed your pc.
 - set **suffix_offset.txt** file suffix offset value to 0
+- change my address to your address in **main.py** file line 88
 - `pip install -r requirements.txt`
 - `python main.py`
